@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'ShopifyInternChallenge.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'Shopify',
-        'USER': 'postgres',
-        'PASSWORD': '44126841',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'NAME': '****',
+        'USER': '****',
+        'PASSWORD': '****',
+        'HOST': '****',
+        'PORT': '****',
     }
 }
 
